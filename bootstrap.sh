@@ -10,7 +10,7 @@ dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
 
 # list of files/folders to symlink in homedir
-files=".bashrc .bash_exports .bash_profiles .bash_function . bash_aliases .emacs.d"
+files=".bashrc .bash_exports .bash_profiles .bash_function .bash_aliases .emacs.d"
 
 
 ##########
